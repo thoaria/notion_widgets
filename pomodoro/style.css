@@ -46,10 +46,10 @@ button:focus {
 /* Display + Stop/Start/Reset Controls */
 
 #time-left {
-  font-size: 70px;
+  font-size: 50px;
   text-align: center;
   background-color: rgb(150,180,175);
-  padding: 20px;
+  padding: 10px;
   border-radius: 20px;
   box-shadow: 3px 3px rgb(121, 145, 141) inset;
 }
